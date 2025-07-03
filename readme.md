@@ -6,6 +6,6 @@ Intenté hacer scrapers para muchas páginas, y tenía constantemente errores qu
 
 Al final me vinieron bien los problemas para aprender tanto sobre el scraping como de otros conceptos relacionados, e hice el scraper del proyecto sobre una página con una programación muy sencilla, asegurándome de que no pareciera tener uso de shadow-dom, lazy load menos en las imágenes, iframes y ese tipo de cosas.
 
-Creo que para futuros alumnos, vendría bien para los trabajos de scraping, o avisar de estas psoibles dificultades y recomnedarles usar páginas simples, o por otro lado, pasar a usar Playwright, que parece cubrir mucho mejor estas necesidades.
+Creo que para futuros alumnos, vendría bien para los trabajos de scraping, o avisar de estas posibles dificultades y recomendarles usar páginas simples, o por otro lado, pasar a usar Playwright, que parece cubrir mucho mejor estas necesidades.
 
 Gracias! 🙂
